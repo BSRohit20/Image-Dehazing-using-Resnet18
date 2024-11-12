@@ -26,8 +26,8 @@ The dataset is expected to be structured as follows:
 
 ```
 data/
-├── GT/     # Ground Truth images (clear images)
-└── hazy/   # Hazy images
+├── GT # Ground Truth images (clear images)
+└── hazy # Hazy images
 ```
 
 Each subfolder should contain paired images with matching filenames in both `GT` and `hazy` folders. If the folders or files are not correctly formatted, errors may occur.
