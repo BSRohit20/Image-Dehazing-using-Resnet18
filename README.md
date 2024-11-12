@@ -77,7 +77,7 @@ pip install torch torchvision pillow scikit-image matplotlib pandas
 
 The model restores image clarity effectively, achieving satisfactory PSNR and SSIM values. Below are some sample results showing the dehazing performance:
 
-![Dehazed Output Sample](images/sample_output.png)
+![Dehazed Output Sample](sample_output.png)
 
 
 ---
